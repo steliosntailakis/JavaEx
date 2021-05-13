@@ -1,0 +1,4 @@
+﻿Name	Telephone	Password	Email	
+Stelios	1234567890	passwd1	stelios@test.gr	
+Giannis	5498736510	passwd2	giannis@test.gr	
+Kostas 	9654789653	passwd3	kostas@test.gr	
